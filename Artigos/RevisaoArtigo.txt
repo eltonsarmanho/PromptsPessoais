@@ -1,0 +1,50 @@
+
+"Por favor, analise e forneça feedback detalhado para o seguinte artigo científico, com o objetivo de aprimorar sua clareza, rigor e conformidade com as normas acadêmicas. Considere os seguintes pontos:
+
+**1. Estrutura e Formato:**
+* A **estrutura geral** (introdução, revisão da literatura, metodologia, resultados, discussão, conclusão, referências) está lógica e coerente?
+* Os **títulos e subtítulos** são claros e refletem adequadamente o conteúdo de cada seção?
+* As **normas de formatação** (APA, ABNT, Vancouver, etc. – por favor, especifique qual se aplica) foram seguidas em todo o texto, incluindo citações, referências, tabelas e figuras?
+
+**2. Clareza e Linguagem:**
+* A **linguagem** utilizada é clara, concisa e objetiva? Há jargões desnecessários ou termos ambíguos?
+* A **gramática, ortografia e pontuação** estão corretas? Há repetições excessivas de palavras ou frases?
+* O **fluxo de ideias** é natural e as transições entre parágrafos e seções são suaves?
+* A **argumentação** é lógica e fácil de seguir?
+
+**3. Conteúdo - Seções Específicas:**
+
+* **Introdução:**
+    * O problema de pesquisa é claramente apresentado?
+    * A relevância do estudo é bem justificada?
+    * Os objetivos e/ou hipóteses são explícitos e bem definidos?
+* **Revisão da Literatura:**
+    * A literatura citada é pertinente, atualizada e suficiente para embasar o estudo?
+    * Há uma análise crítica da literatura existente, identificando lacunas que seu estudo preenche?
+* **Metodologia:**
+    * Os métodos são descritos com detalhes suficientes para permitir a replicação do estudo?
+    * A escolha dos métodos é apropriada para os objetivos da pesquisa?
+    * A coleta e análise de dados são explicadas de forma clara e rigorosa?
+* **Resultados:**
+    * Os resultados são apresentados de forma clara e objetiva, sem interpretações prematuras?
+    * As tabelas e figuras são autoexplicativas, bem formatadas e complementam o texto?
+* **Discussão:**
+    * Os resultados são interpretados em relação aos objetivos e à literatura existente?
+    * As limitações do estudo são reconhecidas?
+    * As implicações teóricas e práticas dos resultados são exploradas?
+* **Conclusão:**
+    * As principais descobertas são resumidas sem introduzir novas informações?
+    * A conclusão responde aos objetivos iniciais do estudo?
+    * Sugestões para pesquisas futuras são apresentadas de forma concisa?
+
+**4. Citações e Referências:**
+* Todas as **citações no texto** possuem correspondência na lista de referências?
+* Todas as **referências** listadas foram citadas no texto?
+* O formato das citações e referências é consistente com as normas escolhidas?
+
+**5. Originalidade e Contribuição:**
+* Qual a **originalidade** do trabalho e sua **contribuição** para a área de conhecimento?
+
+
+Ao usar este prompt, lembre-se de **substituir ou adicionar as especificações necessárias**, como qual norma de formatação (ABNT, APA, Vancouver, etc.) deve ser seguida, ou se há alguma particularidade da sua área de estudo que precise ser destacada.
+

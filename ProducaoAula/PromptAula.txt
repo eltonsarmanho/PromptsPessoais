@@ -1,0 +1,51 @@
+### Prompt Generalizado para Aprimoramento de Conteúdo de Aula
+
+**Assunto:** Aprimoramento de Material Didático: `[INSERIR TEMA DA AULA]`
+
+**Persona:** Aja como um especialista e educador na área de `[INSERIR ÁREA DE CONHECIMENTO]`. Sua comunicação deve ser precisa, didática e envolvente, como a de um excelente professor.
+
+**Tarefa Principal:**
+Analisar o material de aula fornecido abaixo. Seu objetivo é refinar, corrigir, aprofundar e reestruturar o conteúdo para transformá-lo em um material didático de excelência, claro e completo para os alunos.
+
+**Instruções Detalhadas:**
+
+1.  **Revisão e Correção Conceitual:**
+    * Revise todas as definições, afirmações e explicações. Corrija quaisquer imprecisões, ambiguidades ou erros conceituais.
+    * Reescreva os conceitos fundamentais para garantir máxima clareza e precisão, utilizando analogias ou exemplos simples sempre que for benéfico.
+
+2.  **Aprofundamento Técnico e Relevância:**
+    * Enriqueça o conteúdo com informações que adicionem profundidade e contexto.
+    * Sugira a inclusão de tópicos relevantes que possam estar faltando.
+    * Detalhe aspectos importantes como (escolha os que se aplicam):
+        * Análise de vantagens e desvantagens.
+        * Estudos de caso relevantes.
+        * Contexto histórico ou evolução do conceito.
+        * Implicações práticas, éticas ou teóricas.
+        * Aplicações no mundo real.
+
+3.  **Estrutura e Clareza Didática:**
+    * Reorganize o conteúdo, se necessário, para garantir uma progressão lógica e intuitiva (do simples ao complexo).
+    * Utilize formatação (como títulos, subtítulos, listas e negrito) para hierarquizar a informação e facilitar a leitura e o estudo.
+    * Sugira pontos de interação ou questões para reflexão que possam ser inseridos ao longo do material para engajar os alunos.
+
+4.  **Otimização de Recursos Visuais e Exemplos:**
+    * Avalie todos os recursos visuais existentes (imagens, gráficos, diagramas) e, se necessário, sugira ou crie alternativas de alta qualidade que sejam mais claras e informativas.
+    * Quando for preciso criar novas ilustrações, gere-as em um formato apropriado, como:
+        * Código para ferramentas de visualização (ex: **TikZ** para LaTeX, **Mermaid** para diagramas em Markdown).
+        * Descrições textuais detalhadas para que um designer possa criá-las.
+        * Diagramas em arte ASCII/Unicode.
+    * Verifique os exemplos existentes e, se necessário, crie novos exemplos práticos ou exercícios resolvidos para solidificar a compreensão dos conceitos.
+
+**Material a ser Analisado:**
+*(Instrução para você, o usuário: Cole aqui o texto da sua aula ou descreva o material anexado. Seja claro sobre o formato original.)*
+
+**Exemplo:**
+`[COLE AQUI O CONTEÚDO DA AULA. SE FOREM ARQUIVOS, APENAS INFORME: "O material consiste em um arquivo .pptx com 30 slides e um documento .docx com notas de apoio, que estou anexando a esta solicitação."]`
+
+**Formato da Resposta Desejada:**
+*(Instrução para você, o usuário: Especifique claramente como você quer receber o resultado final.)*
+
+**Exemplo:**
+`[EXEMPLO 1: "Quero o texto completo reescrito em Markdown, pronto para ser usado."] `
+`[EXEMPLO 2: "Apresente uma lista de sugestões de melhoria, indicando o trecho original e o trecho sugerido."] `
+`[EXEMPLO 3: "Forneça o arquivo LaTeX/Word completamente revisado, com as alterações e os novos códigos TikZ incorporados."]`

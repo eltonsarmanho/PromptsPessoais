@@ -1,0 +1,44 @@
+
+
+### **Prompt Básico**
+
+"Preciso de referências bibliográficas sobre **[TÓPICO ESPECÍFICO]**."
+
+* **Exemplo:** "Preciso de referências bibliográficas sobre o impacto da inteligência artificial na educação básica no Brasil."
+
+---
+
+### **Prompt com Detalhes Adicionais (Recomendado)**
+
+"Forneça referências bibliográficas sobre **[TÓPICO ESPECÍFICO]** que abordem **[ASPECTOS/SUBTEMAS ESPECÍFICOS]**. Prefiro artigos científicos, livros ou teses publicados entre **[ANO INICIAL]** e **[ANO FINAL]**. Priorize fontes em **[IDIOMA]**."
+
+* **Exemplo:** "Forneça referências bibliográficas sobre a gestão de resíduos sólidos urbanos que abordem a logística reversa e a reciclagem. Prefiro artigos científicos e teses publicados entre 2018 e 2023. Priorize fontes em português e inglês."
+
+---
+
+### **Prompt para Autores/Instituições Específicas**
+
+"Busco referências bibliográficas de **[TÓPICO GERAL OU ESPECÍFICO]** por **[NOME DE AUTOR/INSTITUIÇÃO]**. Inclua artigos, livros ou trabalhos de conferência."
+
+* **Exemplo:** "Busco referências bibliográficas sobre biotecnologia por pesquisadores da Embrapa. Inclua artigos e trabalhos de conferência."
+
+---
+
+### **Prompt para Métodos/Metodologias Específicas**
+
+"Preciso de referências bibliográficas sobre **[TÓPICO ESPECÍFICO]** que utilizem a metodologia de **[MÉTODO ESPECÍFICO]**. Concentre-se em estudos de caso ou pesquisas qualitativas."
+
+* **Exemplo:** "Preciso de referências bibliográficas sobre a eficácia de tratamentos para depressão que utilizem a metodologia de ensaios clínicos randomizados. Concentre-se em meta-análises."
+
+---
+
+## **Dicas para Refinar Seu Prompt**
+
+* **Seja o mais específico possível:** Em vez de "energia", use "energia solar fotovoltaica em áreas rurais".
+* **Use palavras-chave:** Pense nos termos que os autores usariam para descrever o assunto.
+* **Defina o período de publicação:** Referências mais recentes são geralmente preferíveis, mas dependendo da sua pesquisa, você pode precisar de algo histórico.
+* **Especifique o tipo de fonte:** Artigos científicos (papers), livros, teses, dissertações, relatórios, capítulos de livros, etc.
+* **Indique o idioma:** Se você precisa de referências em um idioma específico, mencione.
+* **Mencione aspectos ou subtemas:** Se o tópico for muito amplo, detalhe quais facetas você quer explorar.
+* **Considere o público-alvo ou nível de dificuldade:** Se for para uma introdução, você pode pedir fontes mais gerais. Para uma pesquisa aprofundada, peça fontes mais acadêmicas e detalhadas.
+
