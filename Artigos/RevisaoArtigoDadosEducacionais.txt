@@ -1,0 +1,39 @@
+
+## Prompt para Análise de Artigos Científicos
+
+Este prompt foi projetado para te ajudar a extrair informações cruciais de um artigo científico, focando em elementos essenciais para o desenvolvimento de um dashboard de dados educacionais. Ao responder, o objetivo é que o artigo forneça as seguintes seções:
+
+### Conteúdo Principal
+
+* Qual é o tema central e o problema de pesquisa que o artigo busca resolver?
+* Qual é a principal contribuição ou resultado do estudo?
+* Qual é a relevância deste estudo para o campo dos dados educacionais?
+
+### Metodologia Utilizada
+
+* Qual o tipo de pesquisa (quantitativa, qualitativa, mista)?
+* Quais foram os métodos de coleta de dados (questionários, entrevistas, observação, análise de documentos, extração de dados de sistemas, etc.)?
+* Qual o delineamento da pesquisa (estudo de caso, experimental, survey, pesquisa-ação, etc.)?
+* Quais ferramentas ou softwares foram utilizados na metodologia (se aplicável)?
+
+### Dados Usados na Pesquisa e Análise dos Dados
+
+* **Fonte dos Dados:** De onde os dados foram obtidos (e.g., sistemas acadêmicos, bases de dados públicas, pesquisas primárias, dados demográficos, notas de alunos, frequência, etc.)?
+* **Tipo de Dados:** Quais tipos de dados foram coletados/utilizados (e.g., dados numéricos, textuais, categóricos, séries temporais)?
+* **Período dos Dados:** Qual o período de tempo que os dados cobrem?
+* **Variáveis Principais:** Quais são as variáveis mais importantes que foram analisadas no estudo?
+* **Técnicas de Análise:** Quais métodos estatísticos ou técnicas de análise de dados foram empregados (e.g., regressão, análise de agrupamento, mineração de dados, análise de sentimentos, estatística descritiva)?
+* **Resultados Chave:** Quais são os principais achados ou padrões identificados na análise dos dados?
+
+### Trabalhos Futuros
+
+* Quais são as sugestões do próprio artigo para pesquisas futuras ou próximas etapas?
+* Como este estudo pode ser expandido ou aprofundado em pesquisas subsequentes, especialmente com foco em dados educacionais?
+
+### Informações Adicionais Relevantes
+
+* Existe alguma **limitação** mencionada no estudo que pode impactar a interpretação dos resultados ou a replicação?
+* Há alguma **ferramenta ou tecnologia** específica mencionada que seria útil para o desenvolvimento de um dashboard de dados educacionais (e.g., Power BI, Tableau, Python, R, SQL, plataformas LMS, sistemas de gestão escolar)?
+* O artigo oferece **insights práticos** que poderiam ser visualizados ou monitorados em um dashboard? (Ex: indicadores de evasão, desempenho de alunos, engajamento em cursos online, etc.)
+* O artigo aborda alguma **questão ética ou de privacidade de dados** que precise ser considerada ao lidar com dados educacionais?
+
