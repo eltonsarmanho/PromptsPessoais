@@ -1,0 +1,137 @@
+Crie um cronograma de aulas detalhado para o período acadêmico de outubro/2025 a fevereiro/2026.
+
+
+
+**Período Acadêmico:**
+
+* **Início:** 13/10/2025
+
+* **Término:** 27/02/2026
+
+
+
+**Estrutura das Aulas:**
+
+* **Duração por aula:** 4 horas.
+
+* **Dias da semana:** Segunda a Sábado.
+
+* **Turnos:**
+
+    * **Manhã:** 8h às 12h
+
+    * **Tarde:** 14h às 18h
+
+* **Carga Horária:**
+
+    * **60H:** máximo 15 dias (pode adequar mínimo 13 dias)
+
+    * **45H:** máximo 11 dias (pode adequar mínimo 10 dias)
+
+    * **30H:** máximo 7 dias (pode adequar mínimo 6 dias)
+
+    * **68H:** máximo 17 dias (pode adequar mínimo 15 dias)
+
+    * **34H:** máximo 9 dias (pode adequar mínimo 8 dias)
+
+
+
+
+
+**Turmas e Disciplinas:**
+
+* **Turma 2025:** Turno: Manhã
+
+    * **INTRODUÇÃO À INFORMATICA E AOS SISTEMAS DE INFORMAÇÃO (60 H)** - Professor: Allan
+
+    * **ALGORITMO(60 H)S** - Professor: Fabrício
+
+    * **MATEMÁTICA ELEMENTAR(30 H)** - Professor: Leo
+
+    * **ADMINISTRAÇÃO APLICADA À INFORMÁTICA(60 H)** - Professor: Keventon
+
+    * **LABORATÓRIO DE ALGORITMOS(45 H)** - Professor: Fabrício
+
+    * **FILOSOFIA DAS CIÊNCIAS(30 H)** - Professor: Elton
+
+* **Turma 2024:** Turno: Tarde
+
+    * **CÁLCULO COMPUTACIONAL II(60 H)** - Professor: Leo
+
+    * **PROJETO INTEGRADO I(30 H)** - Professor: Elton (deve ser a última disciplina)
+
+    * **ESTRUTURAS DE DADOS II(60 H)** - Professor: Elton (deve ser a primeira disciplina)
+
+    * **PROGRAMAÇÃO ORIENTADA A OBJETOS(60 H)** - Professor: Keventon
+
+    * **ENGENHARIA DE SOFTWARE(60 H)** - Professor: Carlos
+
+    * **BANCO DE DADOS I(60 H)** - Professor: Leo
+
+    * **METODOLOGIA DO TRABALHO CIENTÍFICO(45 H)** - Professor: Carlos
+
+* **Turma 2023:** Turno: Manhã
+
+    * **BANCO DE DADOS II(68 H)** - Professor: Keventon
+
+    * **ANÁLISE E PROJETO DE SISTEMAS I(68 H)** - Professor: Carlos
+
+    * **REDES DE COMPUTADORES(68 H)** - Professor: Allan
+
+    * **ADMINISTRAÇÃO E GERÊNCIA DE REDES(34 H)** - Professor: Allan
+
+    * **DIREITO E LEGISLAÇÃO EM INFORMÁTICA(34 H)** - Professor: Keventon
+
+    * **SISTEMAS OPERACIONAIS(68 H)** - Professor: Leo
+
+    * **ATIVIDADES CURRICULARES DE EXTENSÃO III(68 H)** - Professor: Fabrício
+
+* **Turma 2021:** Turno: Manhã
+
+    * **TECNOLOGIAS EMERGENTES EM SISTEMAS DE INFORMAÇÃO(34 H)** - Professor: Allan
+
+    * **INFORMÁTICA E SOCIEDADE(34 H)** - Professor: Keventon
+
+
+
+**Restrições de Calendário:**
+
+* **Feriados:**
+
+* 28/10/2025 - Proclamação da República
+
+    * 15/11/2025 - Proclamação da República
+
+    * 20/11/2025 - Consciência Negra
+
+    * 25/12/2025 - Natal
+
+    * 01/01/2026 - Confraternização Universal
+
+* **Período de Férias dos Professores:**
+
+    * **Professor Allan:** 26/11/2025 a 08/01/2026
+
+    * **Professor Fabrício:** 13/10/2025 a 06/11/2025
+
+    * **Professor Elton:** 10/11/2025 a 19/11/2025
+
+    * **Professor Carlos:** 01/12/2025 a 20/12/2025
+
+    * **Professor Leo:** [Não informado]
+
+    * **Professor Keventon:** [Não informado]
+
+
+
+**Tarefa:**
+
+Gerar um cronograma detalhado, listando por data, qual turma e qual disciplina terá aula, respeitando todas as restrições acima, Inclusive a numero de dias de cada disciplina conforme CARGA HORÁRIA. Não aloque aulas nos feriados e durante o período de férias de cada professor. Importante respeitar CARGA HORÁRIA pelo numero de dias
+
+
+
+**Observações Especiais:**
+
+* Professor Elton deve sempre começar ministrando aula, ou seja, ESTRUTURAS DE DADOS II deve ser a primeira disciplina a ser ministrada
+
+* Disciplina de PROJETO INTEGRADO I deve ser a última disciplina a ser ministrada

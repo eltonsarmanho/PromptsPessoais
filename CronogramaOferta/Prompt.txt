@@ -1,0 +1,45 @@
+Crie um cronograma de aulas detalhado para o período acadêmico de [MÊS/ANO A MÊS/ANO].
+
+**Período Acadêmico:**
+* **Início:** [DD/MM/AAAA]
+* **Término:** [DD/MM/AAAA]
+
+**Estrutura das Aulas:**
+* **Duração por aula:** 4 horas.
+* **Dias da semana:** Segunda a Sábado.
+* **Turnos:**
+    * **Manhã:** 8h às 12h
+    * **Tarde:** 13h às 17h
+* **Carga Horária:**
+    * **60H:** máximo 15 dias (pode adequar mínimo 13 dias)
+    * **45H:** máximo 11 dias (pode adequar mínimo 10 dias)
+    * **30H:** máximo 7 dias (pode adequar mínimo 6 dias)
+    * **68H:** máximo 17 dias (pode adequar mínimo 15 dias)
+    * **34H:** máximo 9 dias (pode adequar mínimo 8 dias)
+
+**Turmas e Disciplinas:**
+* **Turma 1:** [Nome da Turma 1] - Turno: [Manhã/Tarde]
+    * **Disciplina 1:** [Nome da Disciplina 1] - Professor: [Nome do Professor 1]
+    * **Disciplina 2:** [Nome da Disciplina 2] - Professor: [Nome do Professor 2]
+* **Turma 2:** [Nome da Turma 2] - Turno: [Manhã/Tarde]
+    * **Disciplina 1:** [Nome da Disciplina 3] - Professor: [Nome do Professor 3]
+    * **Disciplina 2:** [Nome da Disciplina 4] - Professor: [Nome do Professor 4]
+* **Turma 3:** [Nome da Turma 3] - Turno: [Manhã/Tarde]
+    * **Disciplina 1:** [Nome da Disciplina 5] - Professor: [Nome do Professor 5]
+    * **Disciplina 2:** [Nome da Disciplina 6] - Professor: [Nome do Professor 6]
+
+**Restrições de Calendário:**
+* **Feriados:**
+    * [DD/MM/AAAA] - [Nome do Feriado 1]
+    * [DD/MM/AAAA] - [Nome do Feriado 2]
+    * [DD/MM/AAAA] - [Nome do Feriado 3]
+* **Período de Férias dos Professores:**
+    * **Professor [Nome do Professor 1]:** [DD/MM/AAAA] a [DD/MM/AAAA]
+    * **Professor [Nome do Professor 2]:** [DD/MM/AAAA] a [DD/MM/AAAA]
+    * **Professor [Nome do Professor 3]:** [DD/MM/AAAA] a [DD/MM/AAAA]
+    * **Professor [Nome do Professor 4]:** [DD/MM/AAAA] a [DD/MM/AAAA]
+    * **Professor [Nome do Professor 5]:** [DD/MM/AAAA] a [DD/MM/AAAA]
+    * **Professor [Nome do Professor 6]:** [DD/MM/AAAA] a [DD/MM/AAAA]
+
+**Tarefa:**
+Gerar um cronograma detalhado, listando por data, qual turma e qual disciplina terá aula, respeitando todas as restrições acima. Não aloque aulas nos feriados e durante o período de férias de cada professor.
