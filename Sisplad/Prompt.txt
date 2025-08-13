@@ -1,0 +1,15 @@
+import { chromium } from 'playwright';
+
+const browser = await chromium.connectOverCDP(connectionString);
+const context = browser.contexts()[0];
+const ai = context.serviceWorkers()[0];
+const page = context.pages()[0];
+
+
+const result = await ai.evaluate(JSON.stringify({
+    "prompt": "Sua tarefa é automatizar o cadastro de uma lista de disciplinas acadêmicas no sistema SISPLAD da UFPA. Siga estes passos rigorosamente:\n\n1.  **Login:** Navegue para 'http://www.sisplad.ufpa.br/view/inicio/'. Faça o login com o usuário 'eltonss' e a senha 'xxx'.\n\n2.  **Navegação Pós-Login:** Após o login bem-sucedido, acesse diretamente a página de cadastro de disciplinas: 'http://www.sisplad.ufpa.br/view/subunidade/index.php?action=cadastrarDisciplina'.\n\n3.  **Processo de Repetição:** Para cada item na 'lista_de_disciplinas' fornecida abaixo, execute as seguintes ações no formulário:\n    a. Preencha o campo 'Código' com o valor do código da disciplina.\n    b. Preencha o campo 'Nome' com o nome da disciplina.\n    d. No campo 'Nível da Disciplina', selecione a opção 'Graduação'.\n    e. Clique no botão 'Salvar'.\n f. Confirme no botão 'OK'. Retorne para  'http://www.sisplad.ufpa.br/view/subunidade/index.php?action=cadastrarDisciplina' e execute passos a,b,c,d,e,f. \n\n4.  **Lista de Disciplinas para Cadastro:**\n\n``S105144 - ESTAGIO SUPERVISIONADO II\nS105106 - TRABALHO DE CONCLUSÃO DE CURSO\nS105145 - ATIVIDADES COMPLEMENTARES\n```\n\nContinue o processo até que todas as disciplinas da lista tenham sido cadastradas.",
+
+  provider: 'groq',
+  model: 'openai/gpt-oss-120b'
+}));
+console.info(result);
