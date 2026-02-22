@@ -28,6 +28,7 @@ Crie um cronograma de aulas detalhado para o período acadêmico de [MÊS/ANO A 
     * **Disciplina 1:** [Nome da Disciplina 5] - Professor: [Nome do Professor 5]
     * **Disciplina 2:** [Nome da Disciplina 6] - Professor: [Nome do Professor 6]
 
+
 **Restrições de Calendário:**
 * **Feriados:**
     * [DD/MM/AAAA] - [Nome do Feriado 1]
@@ -42,4 +43,56 @@ Crie um cronograma de aulas detalhado para o período acadêmico de [MÊS/ANO A 
     * **Professor [Nome do Professor 6]:** [DD/MM/AAAA] a [DD/MM/AAAA]
 
 **Tarefa:**
-Gerar um cronograma detalhado, listando por data, qual turma e qual disciplina terá aula, respeitando todas as restrições acima. Não aloque aulas nos feriados e durante o período de férias de cada professor.
+
+Gerar um cronograma baseado template abaixo, listando por data, qual turma e qual disciplina terá aula, respeitando todas as restrições acima, Inclusive a numero de dias de cada disciplina conforme CARGA HORÁRIA. Não aloque aulas nos feriados e durante o período de férias de cada professor. Resultado final deve ser agrupado por Turma.
+
+**Template de Cronograma**
+Professor | Disciplina | Turma | CH | TURNO | DATA INICIAL | DATA FINAL
+[Nome do Professor 5] |  [Nome da Disciplina 1]| [Nome da Turma 1] | [CH] | [Nome do Turno]| [DD/MM/AAAA] | [DD/MM/AAAA]
+
+---
+**Restrições**
+
+### 🔒 **Restrição Importante 1 – Conformidade com Calendário e Carga Horária**
+
+1. É **estritamente proibido** alocar aulas:
+
+   * Em **datas de feriados oficiais** listados no calendário acadêmico.
+   * Durante o **período de férias individuais de cada professor**.
+
+2. A carga horária de cada disciplina deve ser respeitada **exclusivamente com base no número de dias letivos**, considerando:
+
+   * Cada dia letivo corresponde a **4 horas de aula**.
+   * O número total de dias alocados deve estar **exatamente dentro do intervalo permitido** para a carga horária definida (mínimo e máximo conforme especificado).
+   * Não é permitido ultrapassar ou reduzir o número mínimo/máximo de dias estabelecido para cada disciplina.
+
+3. O cronograma deve garantir que:
+
+   * Todas as disciplinas sejam concluídas dentro do período acadêmico (24/08/2026 a 23/12/2026).
+   * Nenhuma disciplina tenha datas fragmentadas de forma inconsistente (evitar intervalos não justificados dentro da mesma disciplina).
+
+---
+
+### 🔒 **Restrição Importante 2 – Conflito de Alocação de Professores**
+
+1. Um professor **não pode, sob nenhuma hipótese**, estar alocado:
+
+   * Em duas disciplinas no **mesmo turno (manhã ou tarde)**.
+   * Em duas disciplinas cujos períodos (datas) se sobreponham, ainda que sejam turmas diferentes.
+
+2. É permitido que um professor ministre aulas para duas turmas simultaneamente **apenas se**:
+
+   * Forem em **turnos distintos (manhã e tarde)**.
+   * Não haja conflito de datas no mesmo turno.
+
+3. Deve ser garantido que:
+
+   * Não exista sobreposição parcial ou total de datas para o mesmo professor dentro do mesmo turno.
+   * O cronograma preserve coerência temporal completa para cada docente.
+
+
+**Observações Especiais:**
+
+* Professor [Nome do Professor] deve sempre começar ministrando aula, ou seja, [Nome da Disciplina] deve ser a primeira disciplina a ser ministrada
+
+* As Disciplinas de PROJETO INTEGRADO I e PROJETO INTEGRADO II devem ser a última disciplina a ser ministrada.
