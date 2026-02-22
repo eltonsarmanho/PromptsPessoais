@@ -123,8 +123,6 @@ Gerar um cronograma baseado template abaixo, listando por data, qual turma e qua
 Professor | Disciplina | Turma | CH | TURNO | DATA INICIAL | DATA FINAL
 [Nome do Professor 5] |  [Nome da Disciplina 1]| [Nome da Turma 1] | [CH] | [Nome do Turno]| [DD/MM/AAAA] | [DD/MM/AAAA]
 
-Segue uma versão **mais clara, formal e tecnicamente precisa** das restrições, eliminando ambiguidades e evitando interpretações incorretas pelo modelo:
-
 ---
 **Restrições**
 
